@@ -1,0 +1,17 @@
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\AAX_AzureQueueLibrary.dll.config
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\AAX_AzureQueueLibrary.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\AAX_AzureQueueLibrary.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.Azure.Services.AppAuthentication.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.ServiceBus.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.Azure.Services.AppAuthentication.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\Microsoft.ServiceBus.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\obj\Debug\AAX_AzureQueueLibrary.dll
+c:\users\administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\obj\Debug\AAX_AzureQueueLibrary.pdb
+C:\Users\Administrator\documents\visual studio 2015\Projects\AAX_AzureQueueLibrary\AAX_AzureQueueLibrary\obj\Debug\AAX_AzureQueueLibrary.csprojResolveAssemblyReference.cache
